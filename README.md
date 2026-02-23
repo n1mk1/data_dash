@@ -51,13 +51,3 @@ Tech Stack:
 - Scikit-learn
 - Matplotlib
 
-
-Example Run:
-------------
-python disney_predict_2032.py --year 2032 --genres Comedy Adventure --rating PG-13
-
-Optional:
----------
---season Summer
---csv disney_movie_total_gross_orchi.csv
-============================================================
